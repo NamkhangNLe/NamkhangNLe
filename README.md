@@ -10,7 +10,7 @@
 # 📊 GitHub Stats:
 ![](https://namkhangnle-readme-stats.vercel.app/api?username=NamkhangNLe&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NamkhangNLe&theme=dark&hide_border=false)<br/>
-![](https://namkhangnle-readme-stats.vercel.app/api/top-langs/?username=NamkhangNLe&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://namkhangnle-readme-stats.vercel.app/api/top-langs/?username=NamkhangNLe&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="600">
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=NamkhangNLe&theme=dark_dimmed&no-frame=false&no-bg=false&margin-w=4)
