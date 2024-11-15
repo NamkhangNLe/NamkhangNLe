@@ -19,7 +19,9 @@ Let’s connect and create impactful solutions together! Feel free to reach out.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/NamkhangNLe) 
-[![Website](https://img.shields.io/badge/Portfolio-%23ff69b4.svg?logo=blogger&logoColor=white)](https://namkhangnle.github.io/) 
+[![Website](https://img.shields.io/badge/Portfolio-%23ff69b4.svg?logo=blogger&logoColor=white)](https://namkhangnle.github.io/)
+[![DevPost](https://img.shields.io/badge/Devpost-%230A0A0A.svg?logo=devpost&logoColor=white)]([https://namkhangnle.github.io/](https://devpost.com/namkhangnle)) 
+
 
 
 # 💻 Tech Stack:
