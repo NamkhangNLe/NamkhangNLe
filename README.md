@@ -1,4 +1,3 @@
-💫 About Me:  
 👋🏽 Hey there, I'm Namkhang Le
 
 🎓 About to graduate with a Bachelor of Science in Computer Science, focusing on Intelligence and Information Internetworks. (Expected May 2025)
