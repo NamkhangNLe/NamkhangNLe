@@ -1,6 +1,21 @@
 # 💫 About Me:  
-👋🏽 My name is Namkhang Le<br><br>🎓 Soon to be grad with a Bachelor of Science in Computer Science with concentrations in Intelligence and Information Internetworks. (May 2025)<br><br>🌇 Northern Virginia native, with a passion for learning and implementing Machine Learning models that will streamline your business.<br><br>📚 Full Stack Developer intern at Citi with expertise in building scalable web applications using Spring Core, Spring Boot, and Hibernate, ensuring efficient data access and robust backend functionality. Including development proficiency with HTML5, CSS3, and JavaScript, and a specialization in front-end frameworks like jQuery and Bootstrap, allowing for the delivery of modern and user-friendly interfaces. Extremely proficient in version control systems like GitHub and have hands-on experience in continuous integration and deployment using Maven, Jenkins, and Docker.<br><br>💻 Prospective AI Machine Learning Engineer with the goal of implementing large-scale neural networks, striving to work with a team of inspired engineers who are also mission-driven.<br><br>🏐 Can be found playing volleyball both out on the beach and inside as well as working out at the gym.<br><br>💪🏽 Experienced Software Engineer intern at Lockheed Martin responsible for modernizing current user interface displays in Java and JavaFX. Performed Agile planning through Scrum, in a Continuous Integration environment in Gerrit, Jira, and Jenkins. Led a four-person team in developing Lockheed Martin's Cognitive Mission Manager in identifying, classifying, and isolating manmade infrastructure in the path of harm's way.
+👋🏽 Hey there, I'm Namkhang Le
 
+🎓 About to graduate with a Bachelor of Science in Computer Science, focusing on Intelligence and Information Internetworks. (Expected May 2025)
+
+🌇 Born and raised in Northern Virginia, I'm driven by a fervor for learning and implementing Machine Learning models and scalable software solutions that can optimize your business.
+
+📚 Over the course of my career, I’ve developed expertise in designing and implementing impactful technical solutions. At Amazon Web Services, I engineered a Java and Spring-based communication service to automate 10+ Government Cloud email notifications daily, seamlessly integrating 3 native AWS packages. By redesigning a legacy email system into a scalable, microservices architecture using AWS SWF, SNS, and SQS, I ensured a processing rate of 5+ TPS with autoscaling and redundancy. Additionally, I created a 1st place-winning Amazon Bedrock-powered AI onboarding buddy, fine-tuned on internal documentation, to streamline new hire ramp-up processes across the organization.
+
+📚 My experience at Citi as a Full Stack Developer intern taught me how to build robust web applications with Angular and Spring Boot while optimizing data flow and authentication mechanisms. I also worked at Lockheed Martin, modernizing user interfaces with JavaFX and managing Agile workflows using Jira and Jenkins. Beyond internships, I conducted data-driven projects, such as analyzing global temperature fluctuations' effects on GDP for eight major countries using Python and Tableau.
+
+💻 Aspiring AI Machine Learning Engineer, with the ambition to develop cutting-edge neural networks. My ultimate goal is to work alongside a diverse team of engineers to solve real-world challenges through innovative solutions.
+
+🏐 Outside of work, you’ll often find me playing volleyball on the beach or unwinding at the gym.
+
+💪🏽 My technical strengths include proficiency in Java, Python, TypeScript, JavaScript, R, and C#. My toolkit spans frameworks like Spring Boot and Angular, DevOps tools like Jenkins and Docker, and data analysis with Pandas and Tableau. I’m well-versed in Agile methodologies and CI/CD processes, with hands-on experience in tools like Jira, Git, and Postman. I specialize in creating scalable architectures and leveraging ML to transform complex datasets into actionable insights.
+
+Let’s connect and create impactful solutions together! Feel free to reach out.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/NamkhangNLe) 
