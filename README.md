@@ -1,4 +1,3 @@
-<img src="https://github.com/user-attachments/assets/bbbfae69-1096-4c9d-aabc-3f05b1b6e5d2" width="300" />
 💫 About Me:  
 👋🏽 Hey there, I'm Namkhang Le
 
