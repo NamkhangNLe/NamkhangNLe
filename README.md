@@ -1,6 +1,6 @@
-- # Builder @Facebook | GT CS: AI + Networks  
-- # Prev: AWS, Citi, Lockheed  
-- # I like LLMs, fast infra, and boba 🍹 
+1. ## Builder @Facebook | GT CS: AI + Networks  
+2. ## Prev: AWS, Citi, Lockheed
+3. ## I like LLMs, fast infra, and boba 🍹 
 
 Let’s connect and create impactful solutions together! Feel free to reach out.
 
