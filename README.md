@@ -1,6 +1,6 @@
 👋🏽 Hey there, I'm Namkhang Le
 
-🎓 About to graduate with a Bachelor of Science in Computer Science, focusing on Intelligence and Information Internetworks. (Expected May 2025)
+🎓 Georgia Tech Computer Science, with a focus on Intelligence and Information Internetworks. 
 
 🌇 Born and raised in Northern Virginia, I'm driven by a fervor for learning and implementing Machine Learning models and scalable software solutions that can optimize your business.
 
