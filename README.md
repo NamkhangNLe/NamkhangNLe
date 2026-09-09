@@ -1,19 +1,13 @@
 👋🏽 Hey there, I'm Namkhang Le
 
-💼 Software Engineer II at Meta (2025–present), promoted to IC4 in 2026
-🎓 Georgia Tech Computer Science, Class of 2025 — focused on Intelligence and Information Internetworks
+💼 Software Engineer II @ Meta (2025–present) — Agentic Systems
+🎓 Georgia Tech CS '25 — Intelligence & Information Internetworks
 
-👾 Over the course of my career, I've developed expertise in designing and implementing impactful technical solutions. At Meta, I work on agentic systems. Before Meta, I engineered a Java and Spring-based communication service at AWS to automate 10+ Government Cloud email notifications daily, seamlessly integrating 3 native AWS packages. By redesigning a legacy email system into a scalable, microservices architecture using AWS SWF, SNS, and SQS, I ensured a processing rate of 5+ TPS with autoscaling and redundancy. Additionally, I created a 1st place-winning Amazon Bedrock-powered AI onboarding buddy, fine-tuned on internal documentation, to streamline new hire ramp-up processes across the organization.
+🤖 I build agentic systems: memory and architecture that augments AI agents — LLM harnesses, context engineering, RAG. Before that, on Meta's Facebook GenAI team, I was tech lead for AI Memes (SOTA ML for contextual relevance), expanded AI Tasks across languages via prompt engineering, and fine-tuned AI Suggested Replies to cut hallucinations. Earlier: AWS — automated 10+ GovCloud notifications/day with Java/Spring; built a 1st-place Amazon Bedrock AI onboarding buddy.
 
-📚 Earlier, I was a Full Stack Developer intern at Citi, building robust web applications with Angular and Spring Boot, and a Software Engineer intern at Lockheed Martin, where I modernized user interfaces in Java/JavaFX and led a four-person team building a Cognitive Mission Manager for identifying, classifying, and isolating manmade infrastructure in the path of harm's way.
+📚 Internships at Citi and Lockheed Martin (led a 4-person ML team).
 
-💻 Machine learning engineer by training, software engineer by trade. I specialize in creating scalable architectures and leveraging ML to transform complex datasets into actionable insights.
-
-🏐 Outside of work, you'll often find me playing volleyball on the beach or unwinding at the gym.
-
-💪🏽 My technical strengths include proficiency in Java, Python, TypeScript, JavaScript, R, and C#. My toolkit spans frameworks like Spring Boot and Angular, DevOps tools like Jenkins and Docker, and data analysis with Pandas and Tableau. I'm well-versed in Agile methodologies and CI/CD processes, with hands-on experience in tools like Jira, Git, and Postman.
-
-Let's connect and create impactful solutions together! Feel free to reach out.
+🏐 Off the keyboard: beach volleyball and the gym.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/NamkhangNLe) 
