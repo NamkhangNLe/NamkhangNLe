@@ -1,7 +1,7 @@
 👋🏽 Hey there, I'm Namkhang Le
 
 💼 Software Engineer II @ Meta (2025–present) — Agentic Systems
-🎓 Georgia Tech CS '25 — Intelligence & Information Internetworks
+🎓 Georgia Tech Computer Science — Intelligence & Information Internetworks
 
 🤖 I build agentic systems: memory and architecture that augments AI agents — LLM harnesses, context engineering, RAG. Before that, on Meta's Facebook GenAI team, I was tech lead for AI Memes (SOTA ML for contextual relevance), expanded AI Tasks across languages via prompt engineering, and fine-tuned AI Suggested Replies to cut hallucinations. Earlier: AWS — automated 10+ GovCloud notifications/day with Java/Spring; built a 1st-place Amazon Bedrock AI onboarding buddy.
 
