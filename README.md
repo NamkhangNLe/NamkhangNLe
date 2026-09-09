@@ -1,20 +1,19 @@
 👋🏽 Hey there, I'm Namkhang Le
 
-🎓 Georgia Tech Computer Science, with a focus on Intelligence and Information Internetworks. 
+💼 Software Engineer II at Meta (2025–present), promoted to IC4 in 2026
+🎓 Georgia Tech Computer Science, Class of 2025 — focused on Intelligence and Information Internetworks
 
-🌇 Born and raised in Northern Virginia, I'm driven by a fervor for learning and implementing Machine Learning models and scalable software solutions that can optimize your business.
+👾 Over the course of my career, I've developed expertise in designing and implementing impactful technical solutions. At Meta, I work on agentic systems. Before Meta, I engineered a Java and Spring-based communication service at AWS to automate 10+ Government Cloud email notifications daily, seamlessly integrating 3 native AWS packages. By redesigning a legacy email system into a scalable, microservices architecture using AWS SWF, SNS, and SQS, I ensured a processing rate of 5+ TPS with autoscaling and redundancy. Additionally, I created a 1st place-winning Amazon Bedrock-powered AI onboarding buddy, fine-tuned on internal documentation, to streamline new hire ramp-up processes across the organization.
 
-👾 Over the course of my career, I’ve developed expertise in designing and implementing impactful technical solutions. At Amazon Web Services, I engineered a Java and Spring-based communication service to automate 10+ Government Cloud email notifications daily, seamlessly integrating 3 native AWS packages. By redesigning a legacy email system into a scalable, microservices architecture using AWS SWF, SNS, and SQS, I ensured a processing rate of 5+ TPS with autoscaling and redundancy. Additionally, I created a 1st place-winning Amazon Bedrock-powered AI onboarding buddy, fine-tuned on internal documentation, to streamline new hire ramp-up processes across the organization.
+📚 Earlier, I was a Full Stack Developer intern at Citi, building robust web applications with Angular and Spring Boot, and a Software Engineer intern at Lockheed Martin, where I modernized user interfaces in Java/JavaFX and led a four-person team building a Cognitive Mission Manager for identifying, classifying, and isolating manmade infrastructure in the path of harm's way.
 
-📚 My experience at Citi as a Full Stack Developer intern taught me how to build robust web applications with Angular and Spring Boot while optimizing data flow and authentication mechanisms. I also worked at Lockheed Martin, modernizing user interfaces with JavaFX and managing Agile workflows using Jira and Jenkins. Beyond internships, I conducted data-driven projects, such as analyzing global temperature fluctuations' effects on GDP for eight major countries using Python and Tableau.
+💻 Machine learning engineer by training, software engineer by trade. I specialize in creating scalable architectures and leveraging ML to transform complex datasets into actionable insights.
 
-💻 Aspiring AI Machine Learning Engineer, with the ambition to develop cutting-edge neural networks. My ultimate goal is to work alongside a diverse team of engineers to solve real-world challenges through innovative solutions.
+🏐 Outside of work, you'll often find me playing volleyball on the beach or unwinding at the gym.
 
-🏐 Outside of work, you’ll often find me playing volleyball on the beach or unwinding at the gym.
+💪🏽 My technical strengths include proficiency in Java, Python, TypeScript, JavaScript, R, and C#. My toolkit spans frameworks like Spring Boot and Angular, DevOps tools like Jenkins and Docker, and data analysis with Pandas and Tableau. I'm well-versed in Agile methodologies and CI/CD processes, with hands-on experience in tools like Jira, Git, and Postman.
 
-💪🏽 My technical strengths include proficiency in Java, Python, TypeScript, JavaScript, R, and C#. My toolkit spans frameworks like Spring Boot and Angular, DevOps tools like Jenkins and Docker, and data analysis with Pandas and Tableau. I’m well-versed in Agile methodologies and CI/CD processes, with hands-on experience in tools like Jira, Git, and Postman. I specialize in creating scalable architectures and leveraging ML to transform complex datasets into actionable insights.
-
-Let’s connect and create impactful solutions together! Feel free to reach out.
+Let's connect and create impactful solutions together! Feel free to reach out.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/NamkhangNLe) 
