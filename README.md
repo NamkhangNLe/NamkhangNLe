@@ -1,11 +1,34 @@
 👋🏽 Hey there, I'm Namkhang Le
 
-💼 Software Engineer II @ Meta (2025–present) — Agentic Systems
-🎓 Georgia Tech Computer Science — Intelligence & Information Internetworks
+🔬 Software Engineer II @ Meta, Agentic Systems, building toward frontier AI research. I train small models from scratch, derive the math by hand, and run real experiments.
+🎓 Georgia Tech Computer Science, Intelligence & Information Internetworks
 
-🤖 I build agentic systems: memory and architecture that augments AI agents — LLM harnesses, context engineering, RAG. Before that, on Meta's Facebook GenAI team, I was tech lead for AI Memes (SOTA ML for contextual relevance), expanded AI Tasks across languages via prompt engineering, and fine-tuned AI Suggested Replies to cut hallucinations. Earlier: AWS — automated 10+ GovCloud notifications/day with Java/Spring; built a 1st-place Amazon Bedrock AI onboarding buddy.
+🤖 I build agentic systems: memory and architecture that augments AI agents, LLM harnesses, context engineering, RAG.
 
-📚 Internships at Citi and Lockheed Martin (led a 4-person ML team).
+## 💼 Experience
+
+**Meta, Software Engineer II** (Aug 2026-Present, New York)
+Agentic Systems Team: Muse AI, Agent Harness, and Agentic Architecture.
+
+**Meta, Junior Software Engineer** (Aug 2025-Jul 2026, San Francisco Bay Area)
+Facebook Generative AI Team: tech lead for AI Memes (SOTA ML for contextual relevance); expanded AI Tasks to more languages via prompt engineering; fine-tuned AI Suggested Replies to cut hallucinations.
+
+**Amazon, Software Engineer Intern** (May-Aug 2024, Arlington, VA)
+Built a Java/Spring service automating 10+ GovCloud notifications per day; redesigned a 13-year-old email system into an AWS SWF/SNS/SQS microservices architecture at 5+ transactions per second; built a 1st-place Amazon Bedrock-powered AI onboarding buddy.
+
+**Emory University School of Medicine, Software Engineer Intern (Contract)** (Aug 2023-May 2024, Atlanta, Remote)
+Built the Hemodynamics Calculator, a full-stack app for 10 ICU clinicians affecting 1,000+ patients, with React/Express/MongoDB visualizations that cut data-related errors by 34%.
+
+**Citi, Software Engineer Intern** (Jun-Aug 2023, Tampa, FL)
+Led Event Master Central, a full-stack app for real-time corporate-action event monitoring; revamped authentication and API token validation; built an Angular/TypeScript frontend; integrated with Institutional Services Group Cloud via Spring Boot; analyzed global temperature vs. GDP with Python pandas and Tableau.
+
+**Lockheed Martin, Software Engineer Intern** (May-Aug 2022, Manassas, VA)
+Built a real-time Java data-monitoring interface (+20% operator awareness); migrated Log4J to SLF4J (95% code coverage); built a JavaFX user portal; led a 4-person AI/ML team identifying manmade infrastructure with a Kubeflow/PyTorch/TensorFlow/Sentinel-2 pipeline.
+
+**Idaho National Laboratory, Intern** (Jun 2021-May 2022, Idaho Falls, Remote)
+
+**Georgia Institute of Technology, Undergraduate Research Assistant (Part-time)** (Aug-Dec 2021, Atlanta)
+With a 5-person team, developed an ultra-high-performance electrocatalyst for a Zn-air energy-storage unit for UAVs.
 
 🏐 Off the keyboard: beach volleyball and the gym.
 
