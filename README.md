@@ -1,6 +1,6 @@
 👋🏽 Hey there, I'm Namkhang Le
 
-💼 Software Engineer II @ Meta (Aug 2026-Present), Agentic Systems, New York
+🔬 Software Engineer II @ Meta, Agentic Systems, building toward frontier AI research. I train small models from scratch, derive the math by hand, and run real experiments.
 🎓 Georgia Tech Computer Science, Intelligence & Information Internetworks
 
 🤖 I build agentic systems: memory and architecture that augments AI agents, LLM harnesses, context engineering, RAG.
